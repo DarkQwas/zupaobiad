@@ -1,0 +1,29 @@
+body {
+    padding:30px;
+    /*animation: blink 100ms infinite; */
+    background-image: url("cooltext458593253489596.gif");
+    background-repeat: repeat;
+  }
+  
+  @keyframes blink{
+    0%, 49.9% {
+      
+      background: blue; 
+    }
+    50%, 99.9% {
+     
+      background: red; 
+    }
+
+  }
+video {
+    width: 70%;
+    height: 70%;
+    margin-left:  15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 10%;
+}
+
+
+
